@@ -3753,7 +3753,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -3810,7 +3810,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 22a57a2b56f4e0e8d87fda44a1e4658de26a1afb178a89dc126aa39248fccf83
+      - 3f189bda5fe68be8bff9d5eb6216fad1de3067d6fa891d817eeb3f73c61cd7b9
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -3883,7 +3883,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -3954,7 +3954,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - bc671e792822a231b800b18e281af4edf14143572d0e3500ce3e4e92ce3d423d
+      - d2dd93b55835da560041d11729ad11e6ee5cd7bb78bad77d62bf13eeeccfcb6b
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4027,7 +4027,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4084,7 +4084,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 4d077dc597be451fae56cc13e3d84944933fe7e7814df8aa21fdbec7063b8472
+      - d0024f1c773b079cc3908c93c133b9282134eae2b0bee52c089bab9874eb0ef4
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4156,7 +4156,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4225,7 +4225,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - d50ad19984eab1083fc98009eea2cc4ed53a89b6b859feae4708762e5c87d4b2
+      - fefbd58a60da632931e1d1245430d563ff9d40a9101d3157206bb1d1d3a3a30b
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4297,7 +4297,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4356,7 +4356,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 40a0597ad1271875ab07d91eb565c4eadb9d2b92d0b78c19d38986e7268bd1af
+      - 6a9ef1013c32d4b32985dea20121fd2887e29629e98b14fc38d03053555cf3f8
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4428,7 +4428,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4501,7 +4501,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 0b413473ff171dccf9a4240f4ffb780ae54ade0abfeb7e9a2e1b824d6c3cbb60
+      - 48c27777534aa9f0cd85067943523435f85fee2d1285b885bd0c5e1aa42edf59
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4573,7 +4573,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4629,7 +4629,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - f59590b4590b12fdd5b6af5efe874a9564556d5dd46cd289dd5df9d87f06be9e
+      - b6804479a98720bf3872b77662ac95fbc3bd2f51904491b02fbd46d887330788
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4701,7 +4701,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4771,7 +4771,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 7ba7a891dd8ab0f11ba1eb8e219ce77a2ae8b8db7672484d58e0ac7595655282
+      - dc677b6be286516453d24da06c439dd0b6838fbefe0d53a6c4c9d4bbf948fb01
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4843,7 +4843,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -4901,7 +4901,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 6047f39942208ebfabe62cf4803ee8b33157b237190b42aecce8869801a97f71
+      - 019da9fd2ba1165cf03571b239b84a143547a6b05876746b6c42eb041c3991ac
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -4973,7 +4973,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -5042,7 +5042,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - ecbc16074800d7bd062aef290f3e04a010a75b194d7372df334474ab90e2415d
+      - c8964909d60f98205342c92bab3a20c7b7fe3597941fb82e3252cb19f4c6094b
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5107,7 +5107,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -5162,7 +5162,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 2414eaa45e77f7d3ac8dc77b5b5ee6a680ebac633b7369c67a32b1ab6da28898
+      - 4e1153dbce95b7eb5e0f2bbb5e51f0c0b5d53a29b62d182707068949855bcb0f
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5227,7 +5227,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\nGOALS:\n\n1. Write ''Hello World'' into a file named \"hello_world.txt\".\n\n\nConstraints:\n1.
@@ -5294,7 +5294,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 2eca027fb650aef0d9426ed4ff215f25e2caacb6af3eb9fb5bf3120cee88a446
+      - d876403c0a66e9d087d03399f04beb60de85231ab5ef7ab004df63297fc7edfa
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5359,7 +5359,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -5413,7 +5413,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - e57f2e1e718b3af2f81709089dab52881d1e5f8739c0f1a1ed596f6e329bb904
+      - a3a84d622767003f20dc931bd72df957772904df7480f297228e9ecd66fbf598
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5478,7 +5478,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -5545,7 +5545,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 6f7cd6188f8aac89e10f11f52ca6be5a96a6b1b98b63f81e226fc0fe541df337
+      - 90219f09feacc2a009e594941709a3208a602cbb7e66d65c9c72690732398b2e
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5610,7 +5610,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -5663,7 +5663,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 70dfed68fa2ce45299431d2acbb8d87f9bab0533b93c37e3a996a7c9c92f24ef
+      - 8f06fd01c47fb78ce85c5950daea7cc0b0fddc36ce984c33cc6bf54a41b3dc85
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5727,7 +5727,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -5790,7 +5790,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - b02279b4e306854b6b6e95bb1244a10371626437b90fa9d5f3b1858ea6a1e979
+      - aed14bcf80c19b0d51d31550683bb42fd2792da38d49183c4778f46818a90845
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5855,7 +5855,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -5904,7 +5904,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - f69ae13dc989a182f9358576ebc766dd8a1a4feb44de519b25b38c89e0c87524
+      - 3b327e538cca21e6a00a303a038bf372032f3cd82107d7b431850ba5907d647f
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -5968,7 +5968,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6028,7 +6028,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 255cecf9b444d6913f9621861a49752eccb32da7ae640885dfc4c3774a30d374
+      - d697cd4019dd81edb0b381d7a47715f286910589a535ce0db553669b5fb0b876
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6092,7 +6092,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6151,7 +6151,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 1abc76680a2d6cb3b04476d383f3e3da4e1514b5ec113f30dfd5dba42e1556dc
+      - 7b13e55bb361607bdb084f496689578f14ac70c31cecba0d024ebc9a96f5b2e9
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6215,7 +6215,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6286,7 +6286,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - baff1f42fe127cb8c5c693ce3efabf6c6a498f3f864aad06c32fdd5f0969294d
+      - aaec297a7c359b283686ccedab45e867d7cf114382717f4d7d4b4134a78cf1f4
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6350,7 +6350,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6410,7 +6410,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - f4e25ae0fa9f64cd40f68b3b2563c554f7a803003cd3a9b0e84715eae6946699
+      - d468ebde8da4eb88d64a7db1366a920fb27ec0847f3cf2dc7c6be0d44b12a58c
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6474,7 +6474,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6544,7 +6544,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - aaf280e8a1b843ab12b3de94b0e754945231a20cf7938ef52fb3db76425215a0
+      - 436b8c6efc5c767c8d8b6c7e0d79be239e52fd0370d14e4811f22fead29903d4
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6609,7 +6609,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6668,7 +6668,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - bead5a15039ca847c47d87afde6c93619828f254f77acdc70340d1ff4607f4f3
+      - 2aa19481a25c6cbbce8d5a941dee5d02337a1897ab1069a4479a1e7c2d927a52
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6732,7 +6732,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6802,7 +6802,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 7fd07c6e8a1ce1df935fbcbc28d45c3ddf73b23380db7eeec00de90a944f2ac9
+      - 2a749ed97e1cd3bb076b43438b78e794e0e0e5f5f5fdf55f9d9d3df7cd794cd3
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6867,7 +6867,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -6930,7 +6930,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 7dfbf1ab52e79e903e6bd74cf5ba9c514ec70cf382154ea229b3cb6e7ef7feba
+      - 713ae0782100442a5aaa5c07136767ffd19d50c273ded83e5ec71f21121c15f9
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -6994,7 +6994,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -7058,7 +7058,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 5fe3eb4c970d75b2318a4411d961ac65d631ab87b230970193fdf83750bbbccb
+      - af1748aa2b8728c26a104f6200acf19c11fc5059eeb573cdd8f600daa431cae9
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -7122,7 +7122,7 @@ interactions:
       code: 200
       message: OK
 - request:
-    body: '{"messages": [{"content": "You are Auto-GPT, a multi-purpose AI assistant.\n\nYour
+    body: '{"messages": [{"content": "You are Start-GPT, a multi-purpose AI assistant.\n\nYour
       decisions must always be made independently without seeking user assistance.
       Play to your strengths as an LLM and pursue simple strategies with no legal
       complications.\n\n## Constraints\nYou operate within the following constraints:\n1.
@@ -7190,7 +7190,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - 36b3dd9564347fdee0b5f4fd25caf1fa4150f438ef22958f41e9b6e2fd0ee5d4
+      - 6cd9876b14646269948827f1ed93d6b63477721392942f79636315446064cb38
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:

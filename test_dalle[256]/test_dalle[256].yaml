@@ -3,6 +3,8 @@ interactions:
     body: '{"n": 1, "prompt": "astronaut riding a horse", "response_format": "b64_json",
       "size": "256x256"}'
     headers:
+      X-Content-Hash:
+      - ac1d3871c05f5e48a3a87099bd8d4b4ccb02014397267d02c721613a029f586f
       accept:
       - application/json
       accept-encoding:

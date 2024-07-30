@@ -17,7 +17,7 @@ interactions:
       and budget investment.\n\n- Proactively take the lead in guiding you and offering
       suggestions when faced with unclear information or uncertainty to ensure your
       marketing strategy remains on track.\n", "role": "system"}, {"content": "Task:
-      ''Write a wikipedia style article about the project: https://github.com/significant-gravitas/Auto-GPT''\nRespond
+      ''Write a wikipedia style article about the project: https://github.com/khulnasoft/Start-GPT''\nRespond
       only with the output in the exact format specified in the system prompt, with
       no explanation or conversation.", "role": "user"}], "model": "gpt-3.5-turbo",
       "temperature": 0.0}'
@@ -33,7 +33,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - cc4940b13e25117216dfcd3c7dcdc665cf7ef70a10b5633f2f67f1a832c3e89a
+      - 80c294fad94032b9e19283371a637bd9aff8456969c797cd335e2e14ffa22718
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
@@ -127,7 +127,7 @@ interactions:
       and budget investment.\n\n- Proactively take the lead in guiding you and offering
       suggestions when faced with unclear information or uncertainty to ensure your
       marketing strategy remains on track.\n", "role": "system"}, {"content": "Task:
-      ''Write a wikipedia style article about the project: https://github.com/significant-gravitas/Auto-GPT''\nRespond
+      ''Write a wikipedia style article about the project: https://github.com/khulnasoft/Start-GPT''\nRespond
       only with the output in the exact format specified in the system prompt, with
       no explanation or conversation.", "role": "user"}], "model": "gpt-4-0314", "temperature":
       0.0}'
@@ -143,7 +143,7 @@ interactions:
       Content-Type:
       - application/json
       X-Content-Hash:
-      - ac6044440efb25bc33deca1c1be80cfef40e6a3eeb43febe36cc11c8f17b869c
+      - dba9ce7b59497af405cc04b09db4ac7531f6f22cc81b87154a455608d1c00055
     method: POST
     uri: https://api.openai.com/v1/chat/completions
   response:
